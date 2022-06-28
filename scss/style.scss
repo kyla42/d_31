@@ -7,13 +7,13 @@
 .main {
     width: 100vw;
     min-height: 100vh;
+    background-color: darkcyan;
     display: flex;
 }
 
 .frame {
     width: 400px;
-    height: 400px;
-    background-color: darkcyan;
+    height: 400px;  
     margin: auto;
 }
 
